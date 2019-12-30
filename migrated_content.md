@@ -111,20 +111,20 @@ subscribe to the <a href="http://groups.google.com/group/owasp-venezuela?hl=es">
 <tbody>
 <tr class="odd">
 <td><h2 id="imageowasplogo_50x50.png_backup_malware_2016___venezuela"><img src="Owasplogo-50x50.png" title="fig:Image:Owasplogo-50x50.png" alt="Image:Owasplogo-50x50.png" /> Backup &amp; Malware 2016 - Venezuela</h2>
-<p>OWASP Venezuela - OWASP Venezuela Chapter <a href="https://www.owasp.org/images/7/79/OWASP_C%C3%A1pitulo_Venezuela.pdf">Descargar</a><br />
-CVE - lo bueno, lo malo y lo feo - Josmell Chavarri <a href="https://www.owasp.org/images/4/49/CVE_Lobueno_Lomalo_y_Lofeo.pdf">Descargar</a><br />
+<p>OWASP Venezuela - OWASP Venezuela Chapter <a href="/www-pdf-archive/OWASP_C%C3%A1pitulo_Venezuela.pdf">Descargar</a><br />
+CVE - lo bueno, lo malo y lo feo - Josmell Chavarri <a href="/www-pdf-archive/CVE_Lobueno_Lomalo_y_Lofeo.pdf">Descargar</a><br />
 <br />
 <br />
 <br />
 ==<img src="Owasplogo-50x50.png" title="fig:Image:Owasplogo-50x50.png" alt="Image:Owasplogo-50x50.png" /> Presentaciones del OWASP Latam Tour 2016 - Venezuela==</p>
-<p>OWASP Venezuela - OWASP Venezuela Chapter <a href="https://www.owasp.org/images/7/79/OWASP_C%C3%A1pitulo_Venezuela.pdf">Descargar</a><br />
-Seguridad por Decepción - David Plazas <a href="https://www.owasp.org/images/8/87/Seguridad_por_decepcion.pdf">Descargar</a><br />
-CVE - lo bueno, lo malo y lo feo - Josmell Chavarri <a href="https://www.owasp.org/images/4/49/CVE_Lobueno_Lomalo_y_Lofeo.pdf">Descargar</a><br />
+<p>OWASP Venezuela - OWASP Venezuela Chapter <a href="/www-pdf-archive/OWASP_C%C3%A1pitulo_Venezuela.pdf">Descargar</a><br />
+Seguridad por Decepción - David Plazas <a href="/www-pdf-archive/Seguridad_por_decepcion.pdf">Descargar</a><br />
+CVE - lo bueno, lo malo y lo feo - Josmell Chavarri <a href="/www-pdf-archive/CVE_Lobueno_Lomalo_y_Lofeo.pdf">Descargar</a><br />
 code, bugs &amp; rock n' roll - Jorge Salazar <a href="https://goo.gl/1kf5ks">Descargar</a><br />
-File Upload Explotation - Randy Ortega <a href="https://www.owasp.org/images/d/d6/File_Upload_Explotation.pdf">Descargar</a><br />
-Cómo lo lograron? - Jonathan Maderos <a href="https://www.owasp.org/images/d/d6/%C2%BFC%C3%B3mo_lo_Lograron_.pdf">Descargar</a><br />
+File Upload Explotation - Randy Ortega <a href="/www-pdf-archive/File_Upload_Explotation.pdf">Descargar</a><br />
+Cómo lo lograron? - Jonathan Maderos <a href="/www-pdf-archive/%C2%BFC%C3%B3mo_lo_Lograron_.pdf">Descargar</a><br />
 Amenazas a tus aplicaciones sobre redes hostiles - Mauricio Campiglia (Uruguay) [Pendiente Descargar]<br />
-Extracción lógica de dispositivos Android con linux - Gustavo Martin <a href="https://www.owasp.org/images/e/e8/Extracci%C3%B3n_logica_android.pdf">Descargar</a><br />
+Extracción lógica de dispositivos Android con linux - Gustavo Martin <a href="/www-pdf-archive/Extracci%C3%B3n_logica_android.pdf">Descargar</a><br />
 <br />
 <br />
 <br />
@@ -136,41 +136,41 @@ Extracción lógica de dispositivos Android con linux - Gustavo Martin <a href="
 <br />
 </p>
 <h2 id="imageowasplogo_50x50.png_presentaciones_del_owasp_latam_tour_2015___venezuela"><img src="Owasplogo-50x50.png" title="fig:Image:Owasplogo-50x50.png" alt="Image:Owasplogo-50x50.png" /> Presentaciones del OWASP Latam Tour 2015 - Venezuela</h2>
-<p>OWASP Venezuela - OWASP Venezuela Chapter <a href="https://www.owasp.org/images/0/07/Inicio_owasp_latamtour_capitulo_Venezuela.pdf">Descargar</a><br />
-Hacking Etico: Cacería de Vulnerabilidades- Jair García <a href="https://www.owasp.org/images/5/51/Hacking_Etico_Cacer%C3%ADa_de_Vulnerabilidades.pdf">Descargar</a><br />
-Sessión Hijacking: Peligro en la web- Randy Ortega <a href="https://www.owasp.org/images/d/db/Sessi%C3%B3n_Hijacking_Peligro_en_la_Red.pdf">Descargar</a><br />
-Ataques de denegación de servicio a través de expresiones regulares: De la explotación a la corrección - Michael Hidalgo (Costa Rica) <a href="https://www.owasp.org/images/9/92/Denegaci%C3%B3n_de_servicio_con_expresiones_regulares.pdf">Descargar</a><br />
-Conociendo al Enemigo: Honeypots- Josmell Chavarri <a href="https://www.owasp.org/images/b/bf/Conociendo_al_enemigo_Honeypots.pdf">Descargar</a><br />
-Programación Segura en Python- Eliezer Romero y Rodrigo Bravo <a href="https://www.owasp.org/images/e/e8/Programaci%C3%B3n_segura_Python.pdf">Descargar</a><br />
+<p>OWASP Venezuela - OWASP Venezuela Chapter <a href="/www-pdf-archive/Inicio_owasp_latamtour_capitulo_Venezuela.pdf">Descargar</a><br />
+Hacking Etico: Cacería de Vulnerabilidades- Jair García <a href="/www-pdf-archive/Hacking_Etico_Cacer%C3%ADa_de_Vulnerabilidades.pdf">Descargar</a><br />
+Sessión Hijacking: Peligro en la web- Randy Ortega <a href="/www-pdf-archive/Sessi%C3%B3n_Hijacking_Peligro_en_la_Red.pdf">Descargar</a><br />
+Ataques de denegación de servicio a través de expresiones regulares: De la explotación a la corrección - Michael Hidalgo (Costa Rica) <a href="/www-pdf-archive/Denegaci%C3%B3n_de_servicio_con_expresiones_regulares.pdf">Descargar</a><br />
+Conociendo al Enemigo: Honeypots- Josmell Chavarri <a href="/www-pdf-archive/Conociendo_al_enemigo_Honeypots.pdf">Descargar</a><br />
+Programación Segura en Python- Eliezer Romero y Rodrigo Bravo <a href="/www-pdf-archive/Programaci%C3%B3n_segura_Python.pdf">Descargar</a><br />
 <br />
 <br />
 <br />
 </p>
 <h2 id="imageowasplogo_50x50.png_presentaciones_del_owasp_latam_tour_2013___venezuela"><img src="Owasplogo-50x50.png" title="fig:Image:Owasplogo-50x50.png" alt="Image:Owasplogo-50x50.png" /> Presentaciones del OWASP Latam Tour 2013 - Venezuela</h2>
-<p>OWASP Dónde estamos... ¿A dónde vamos? - OWASP Venezuela Chapter [<a href="https://www.owasp.org/images/3/36/1-OWASP_Where_we_are">https://www.owasp.org/images/3/36/1-OWASP_Where_we_are</a>.._Where_are_we_going.pdf Descargar]<br />
-Explotando Adobe, Análizando un PDF - Carlos Loyo <a href="https://www.owasp.org/images/4/46/2-owasp_carlos_loyo.pdf">Descargar</a><br />
-Cloud Security en IaaS. Una visión de Seguridad desde el Data Center - Omar Alvarado <a href="https://www.owasp.org/images/5/5e/3-Cloud_Security_IaaS.pdf">Descargar</a><br />
-Todos Somos parte de la seguridad en el Desarrollo de Software... - Edgar Salazar <a href="https://www.owasp.org/images/9/93/4-Todos_somos_parte_de_la_seguridad.pdf">Descargar</a><br />
-OpenSAMM- Mateo Martinez <a href="https://www.owasp.org/images/6/6c/5-OWASP-LatamTour2013_%28Mateo_Mart%C3%ADnez%29.pdf">Descargar</a><br />
-Mas allá de un defacement - Diego Subero y Carlos Suarez <a href="https://www.owasp.org/images/1/1b/6-OWASP_2013xss.pdf">Descargar</a><br />
-Inseguridad Bancaria en Linea - Rubén Recabarren <a href="https://www.owasp.org/images/c/c0/7-owasp_2013_latam_tour.pdf">Descargar</a><br />
-Secure infrastructure as code: How I built w3af.org - Andres Riancho <a href="https://www.owasp.org/images/9/9f/8-Secure_infrastructure_as_code_-_How_I_built_w3af.org_-_v0.4.pdf">Descargar</a><br />
-Del USB a la web: cómo tu sitio propaga malware - Pablo Ramos <a href="https://www.owasp.org/images/2/24/Del_USB_a_la_Web_-_Veneuela.pdf">Descargar</a><br />
+<p>OWASP Dónde estamos... ¿A dónde vamos? - OWASP Venezuela Chapter [<a href="https://www.owasp.org/images/3/36/1-OWASP_Where_we_are">/www-pdf-archive/a>.._Where_are_we_going.pdf Descargar]<br />
+Explotando Adobe, Análizando un PDF - Carlos Loyo <a href="/www-pdf-archive/2-owasp_carlos_loyo.pdf">Descargar</a><br />
+Cloud Security en IaaS. Una visión de Seguridad desde el Data Center - Omar Alvarado <a href="/www-pdf-archive/3-Cloud_Security_IaaS.pdf">Descargar</a><br />
+Todos Somos parte de la seguridad en el Desarrollo de Software... - Edgar Salazar <a href="/www-pdf-archive/4-Todos_somos_parte_de_la_seguridad.pdf">Descargar</a><br />
+OpenSAMM- Mateo Martinez <a href="/www-pdf-archive/5-OWASP-LatamTour2013_%28Mateo_Mart%C3%ADnez%29.pdf">Descargar</a><br />
+Mas allá de un defacement - Diego Subero y Carlos Suarez <a href="/www-pdf-archive/6-OWASP_2013xss.pdf">Descargar</a><br />
+Inseguridad Bancaria en Linea - Rubén Recabarren <a href="/www-pdf-archive/7-owasp_2013_latam_tour.pdf">Descargar</a><br />
+Secure infrastructure as code: How I built w3af.org - Andres Riancho <a href="/www-pdf-archive/8-Secure_infrastructure_as_code_-_How_I_built_w3af.org_-_v0.4.pdf">Descargar</a><br />
+Del USB a la web: cómo tu sitio propaga malware - Pablo Ramos <a href="/www-pdf-archive/Del_USB_a_la_Web_-_Veneuela.pdf">Descargar</a><br />
 <br />
 <br />
 </p>
 <h2 id="imageowasplogo_50x50.png_presentaciones_del_owasp_latam_tour_2012___venezuela"><img src="Owasplogo-50x50.png" title="fig:Image:Owasplogo-50x50.png" alt="Image:Owasplogo-50x50.png" /> Presentaciones del OWASP Latam Tour 2012 - Venezuela</h2>
-<p>OWASP Mantra Security Framework - Edgar Salazar <a href="https://www.owasp.org/images/2/2a/OwaspMantraSecurityFramework-Ve.pdf">Descargar</a><br />
-Mundo Web: Ataques y Defensas - Diego Subero <a href="https://www.owasp.org/images/7/72/MundoWeb_AtaquesYDefensas.pdf">Descargar</a><br />
-Desarrollo Seguro usando OWASP - Fabio Cerullo <a href="https://www.owasp.org/images/0/07/Desarrollo_Seguro_usando_OWASP.pdf">Descargar</a><br />
-Mi sitio web ha sido hackeado ¿y ahora que? - Carlos Solís <a href="https://www.owasp.org/images/5/5a/Mi_sitio_web_ha_sido_hackeado_%C2%BFy_ahora_que%3F.pdf">Descargar</a><br />
-Webapp Penetration Testing - Ruben Recabarren <a href="https://www.owasp.org/images/7/7a/WebApp_Penetration_Testing.pdf">Descargar</a><br />
-OWASP Testing Guide - John Vargas <a href="https://www.owasp.org/images/8/82/OWASP_Testing_Guide.pdf">Descargar</a><br />
+<p>OWASP Mantra Security Framework - Edgar Salazar <a href="/www-pdf-archive/OwaspMantraSecurityFramework-Ve.pdf">Descargar</a><br />
+Mundo Web: Ataques y Defensas - Diego Subero <a href="/www-pdf-archive/MundoWeb_AtaquesYDefensas.pdf">Descargar</a><br />
+Desarrollo Seguro usando OWASP - Fabio Cerullo <a href="/www-pdf-archive/Desarrollo_Seguro_usando_OWASP.pdf">Descargar</a><br />
+Mi sitio web ha sido hackeado ¿y ahora que? - Carlos Solís <a href="/www-pdf-archive/Mi_sitio_web_ha_sido_hackeado_%C2%BFy_ahora_que%3F.pdf">Descargar</a><br />
+Webapp Penetration Testing - Ruben Recabarren <a href="/www-pdf-archive/WebApp_Penetration_Testing.pdf">Descargar</a><br />
+OWASP Testing Guide - John Vargas <a href="/www-pdf-archive/OWASP_Testing_Guide.pdf">Descargar</a><br />
 <br />
 <br />
 </p>
 <h2 id="imageowasplogo_50x50.png_presentación_de_owasp___vídeo_conferencia_suscerte"><img src="Owasplogo-50x50.png" title="fig:Image:Owasplogo-50x50.png" alt="Image:Owasplogo-50x50.png" /> Presentación de OWASP - Vídeo conferencia SUSCERTE</h2>
-<p>Pruebas de Seguridad en aplicaciones web segun OWASP - Edgar Salazar <a href="https://www.owasp.org/images/2/2f/OWASP_SUSCERTE.pdf">Descargar</a><br />
+<p>Pruebas de Seguridad en aplicaciones web segun OWASP - Edgar Salazar <a href="/www-pdf-archive/OWASP_SUSCERTE.pdf">Descargar</a><br />
 <br />
 <br />
 </p>
@@ -195,5 +195,5 @@ OWASP Testing Guide - John Vargas <a href="https://www.owasp.org/images/8/82/OWA
 ¿Desea patrocinar nuestro eventos y/o nuestros proyectos?, por favor
 [**contacte**](mailto:mailto:edgar.salazar@owasp.org) con nosotros.
 
-[Category:Latin_America](Category:Latin_America "wikilink")
-[Category:South_America](Category:South_America "wikilink")
+[Category:Latin_America](Category:Latin_America )
+[Category:South_America](Category:South_America )
